@@ -1,2 +1,2 @@
 # unit-spw-3-avaliacao
-Repositório destinado aos códigos do projeto de avaliaçãod o terceiro módulo da pós-graduação
+Repositório destinado ao projeto desenvolvido no módulo 3 da pós graduação em engenharia de software
